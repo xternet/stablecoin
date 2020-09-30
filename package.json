@@ -1,0 +1,19 @@
+{
+  "name": "Stablecoin",
+  "version": "0.1.0",
+  "description": "Increasing value Stablecoin",
+  "author": "majewski.post@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "@chainlink/contracts": "^0.0.4",
+    "@openzeppelin/contracts": "^3.0.1",
+    "@openzeppelin/test-helpers": "^0.5.5",
+    "@truffle/hdwallet-provider": "^1.0.35",
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
+    "chai-bignumber": "^3.0.0",
+    "dotenv": "^8.2.0",
+    "truffle-flattener": "^1.4.4",
+    "truffle-hdwallet-provider-privkey": "^0.3.0"
+  }
+}
