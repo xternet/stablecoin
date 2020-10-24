@@ -42,7 +42,7 @@ contract Stablecoin {
 
   HistoricAggregatorInterface internal ref; // Store ChainLink contract into variable
 
-  /** Events emitted when:
+  /** Events:
     * Approval      - Someone gets approvement to spend tokens
     * Price         - New price is calculated
     * Received      - Contract received funds
