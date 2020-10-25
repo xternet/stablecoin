@@ -1,8 +1,8 @@
 {
-  "name": "Stablecoin",
+  "name": "stablecoin",
   "version": "0.1.0",
-  "description": "Increasing value Stablecoin",
-  "author": "majewski.post@gmail.com",
+  "description": "stablecoin with value: +3.16~ APY",
+  "author": "github.com/xternet",
   "license": "MIT",
   "dependencies": {
     "@chainlink/contracts": "^0.0.4",
