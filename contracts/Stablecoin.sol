@@ -4,7 +4,7 @@ pragma solidity 0.6.12;
 import "@openzeppelin/contracts/math/SafeMath.sol";
 import "@chainlink/contracts/src/v0.6/interfaces/HistoricAggregatorInterface.sol";
 
-/** Simple, no API solution for Stablecoin.
+/** Stablecoin.
 
   * Token starts with value 1 USD
   * Token price is increasing by 0.000000001 USD/s (3.16% APY).
